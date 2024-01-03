@@ -1,4 +1,4 @@
-# Runyu Yue's Computer Science Graduate Studies Portfolio
+# Runyu Yue's Computer Science Research project
 
 Welcome to my GitHub repository, this is a record for my computer science research project
 
